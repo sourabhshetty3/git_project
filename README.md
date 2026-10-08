@@ -58,3 +58,7 @@ The repository intentionally starts simple so that students can focus on version
 ## Student information
  Name: Sourabh Shetty
  Student Id : 25191153
+
+ ## Project Description
+ This project demostrates basic Git and GitHub workflows,including commits, branches,isuues,pull requests and GitHub Actions.
+ 
