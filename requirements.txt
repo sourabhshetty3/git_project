@@ -1,2 +1,2 @@
 pytest>=8.0,<9.0
-hello
+hello world
